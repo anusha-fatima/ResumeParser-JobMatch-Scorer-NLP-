@@ -1,0 +1,8 @@
+data/train_data.json
+data/test_data.json
+model/auto_train_from_jobs.json
+final_resume_job_scores.csv
+*.pkl
+*.bin
+*.pt
+*.h5

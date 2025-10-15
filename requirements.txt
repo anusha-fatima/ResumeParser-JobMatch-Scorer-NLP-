@@ -1,0 +1,9 @@
+%%writefile requirements.txt
+streamlit
+pyngrok
+pandas
+torch
+sentence-transformers
+pdfplumber
+python-docx
+unidecode
