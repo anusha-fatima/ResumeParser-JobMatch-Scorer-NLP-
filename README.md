@@ -21,7 +21,7 @@ It combines **semantic understanding (NLP)** with **skill-based comparison** for
   \[
   \text{Final Score} = (\alpha \times \text{Semantic}) + (1 - \alpha) \times \text{SkillOverlap}
   \]
-- [Streamlit App](https://marlin-nonatmospherical-longsomely.ngrok-free.dev/)
+- [Streamlit App](https://me7dpsqgazwjmynbd5twgm.streamlit.app/)
 
 
 ---
