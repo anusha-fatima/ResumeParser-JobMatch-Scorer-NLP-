@@ -34,7 +34,7 @@ It combines **semantic understanding (NLP)** with **skill-based comparison** for
 - **PyTorch** – Backend for NLP model  
 - **Pandas** – Data handling  
 - **pdfplumber / python-docx** – Resume parsing  
-- **GitHub + Colab + ngrok** – Deployment and testing  
+- **GitHub + Colab** – Deployment and testing  
 
 ---
 
